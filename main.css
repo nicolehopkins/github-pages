@@ -1,0 +1,97 @@
+* {
+    background-color: rgb(54, 57, 57);
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div.border {
+    align-content: center;
+    border: 5px solid gray;
+    padding: 25px;
+    margin: 10%;
+    width: 1000px;
+    height: 850px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.about-me {
+    color:  white;
+    text-align: center;
+    border-right: 2px solid gray;
+}
+
+p {
+    padding: 10px;
+}
+
+h3 {
+    display: inline-block;
+    text-align: center;
+    justify-content: space-around;
+    padding: 5px;
+}
+
+section {
+    display: inline-block;
+    text-align: left;
+    justify-content: space-around;
+    padding: 5px;
+    font-size: 20px;
+}
+
+a:link {
+    color: green;
+    text-align: center;
+}
+
+a.container {
+    display: inline-block;
+    justify-content: space-between;
+    text-align: center;
+}
+
+body {
+    box-sizing: border-box;
+    color: white;
+    text-align: left;
+}
+
+h2 {
+    border-top: 1px solid grey;
+    padding: 25px;
+}
+
+.float {
+    display: inline-block;
+}
+
+span {
+    float: left;
+}
+
+img {
+    float: right;
+}
+
+div.footer {
+    border-top: 1px solid gray;
+    padding: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+}
+
+.separate {
+    justify-content: space-between;
+    border-right: 2px solid gray;
+    padding: 5px;
+}
+
+div.container {
+    text-align: center;
+}
